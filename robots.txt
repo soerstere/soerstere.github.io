@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://soerstere.github.io/sitemap.html.gz
+Sitemap: https://soerstere.github.io/app/sitemap.html.gz
+Sitemap: https://soerstere.github.io/assets/sitemap.html.gz
+Sitemap: https://soerstere.github.io/css/sitemap.html.gz
+Sitemap: https://soerstere.github.io/data/sitemap.html.gz
+Sitemap: https://soerstere.github.io/includes/sitemap.html.gz
+Sitemap: https://soerstere.github.io/item/sitemap.html.gz
+Sitemap: https://soerstere.github.io/src/sitemap.html.gz
